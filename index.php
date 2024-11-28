@@ -9,6 +9,7 @@
   <body>
     <div class="container-fluid" style="background:#b883f0">
     <h1>Bienvenidos a todos!</h1>
+    <h1>BRYAN!</h1>
     <ing src="Cliente/ing/2.png" width="100" heigth="100">
     </div>
 
